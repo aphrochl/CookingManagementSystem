@@ -1,5 +1,5 @@
 # Cooking Competition Management System
-## Databases 2023-2024
+### Databases 2023-2024 ECE NTUA
 
 ## Team's Members 
 
