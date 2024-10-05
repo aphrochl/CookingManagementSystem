@@ -1,4 +1,5 @@
-# Databases 2023-2024
+# Cooking Competition Management System
+## Databases 2023-2024
 
 ## Team's Members 
 
