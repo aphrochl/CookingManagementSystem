@@ -1,5 +1,5 @@
 # Cooking Competition Management System
-### Databases 2023-2024 ECE NTUA
+### Databases ECE NTUA 2023-2024
 #### Graded 92.1/100
 
 ## Team's Members 
