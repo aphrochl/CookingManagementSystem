@@ -3,4 +3,4 @@
 This directory contains the source code for the Library Management System project implemented in Java.
 
 ### Usage
-- To compile and run the code, refer to the [main README file](/README.md) in the root of the repository for instructions.
+- To compile and run the code, refer to the [main README file](https://github.com/ntua-el20889/CookingManagementSystem/blob/main/README.md) in the root of the repository for instructions.
