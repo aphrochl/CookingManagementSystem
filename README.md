@@ -9,6 +9,20 @@
  **Afroditi Marianthi Chlapani [el20889@mail.ntua.gr](https://github.com/ntua-el20889)**  
  **Kyriaki Karatzouni [el20634@mail.ntua.gr](https://github.com/ntua-el20634)**  
 
+---
+
+## Project Overview
+
+This project implements a **Database Management System** for a competitive cooking show. The system manages recipes, ingredients, equipment, cooks, judges, and competition episodes. Each recipe includes detailed steps, required ingredients, nutritional information, and cooking equipment. The system automates the selection of recipes and judges for each episode and tracks scores, which are later used to evaluate cooks. Advanced SQL queries are used to provide insights into cook performance, episode statistics, and nutritional data.
+
+Key features:
+- Recipe management with difficulty levels, meal types, and nutritional info.
+- Cooks and judges management with expertise and professional ranking.
+- Automatic competition episode management and score tracking.
+- Complex SQL queries to gather insights on cooks, episodes, and recipes.
+- Database design with ER diagrams, relational schemas, and optimized queries.
+
+---
 
  # Contents
 
